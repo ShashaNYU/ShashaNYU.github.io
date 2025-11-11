@@ -92,6 +92,20 @@ const config: QuartzConfig = {
       Plugin.CustomOgImages(),
     ],
   },
+  comments:
+  {
+  provider: "giscus",
+  repo: "ShashaNYU/ShashaNYU.github.io",
+  repoId: "R_kgDOQTXLzw",
+  category: "Comments",
+  categoryId: "DIC_kwDOQTXLz84Cxq2f",
+  mapping: "pathname",
+  reactionsEnabled: true,
+  inputPosition: "bottom",
+  theme: "preferred_color_scheme",
+  lang: "en",
+  },
+
 }
 
 export default config
