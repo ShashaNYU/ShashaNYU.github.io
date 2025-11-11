@@ -105,10 +105,10 @@ const config: QuartzConfig = {
   // theme: "preferred_color_scheme",
   // lang: "en",
   // },
-  head: `
-  <!-- Hypothes.is inline commenting -->
-  <script async defer src="https://hypothes.is/embed.js"></script>
-`,
+//   head: `
+//   <!-- Hypothes.is inline commenting -->
+//   <script async defer src="https://hypothes.is/embed.js"></script>
+// `,
 
 }
 

@@ -97,6 +97,7 @@ export default (() => {
             return resource
           }
         })}
+        <script async defer src="https://hypothes.is/embed.js"></script>
       </head>
     )
   }
