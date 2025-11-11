@@ -92,19 +92,23 @@ const config: QuartzConfig = {
       Plugin.CustomOgImages(),
     ],
   },
-  comments:
-  {
-  provider: "giscus",
-  repo: "ShashaNYU/ShashaNYU.github.io",
-  repoId: "R_kgDOQTXLzw",
-  category: "Comments",
-  categoryId: "DIC_kwDOQTXLz84Cxq2f",
-  mapping: "pathname",
-  reactionsEnabled: true,
-  inputPosition: "bottom",
-  theme: "preferred_color_scheme",
-  lang: "en",
-  },
+  // comments:
+  // {
+  // provider: "giscus",
+  // repo: "ShashaNYU/ShashaNYU.github.io",
+  // repoId: "R_kgDOQTXLzw",
+  // category: "Comments",
+  // categoryId: "DIC_kwDOQTXLz84Cxq2f",
+  // mapping: "pathname",
+  // reactionsEnabled: true,
+  // inputPosition: "bottom",
+  // theme: "preferred_color_scheme",
+  // lang: "en",
+  // },
+  head: `
+  <!-- Hypothes.is inline commenting -->
+  <script async defer src="https://hypothes.is/embed.js"></script>
+`,
 
 }
 
