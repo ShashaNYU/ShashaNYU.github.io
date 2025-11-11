@@ -1,11 +1,5 @@
+node_modules/
+.quartz-cache/
+public/
 .DS_Store
-.gitignore
-node_modules
-public
-prof
-tsconfig.tsbuildinfo
-.obsidian
-.quartz-cache
-private/
-.replit
-replit.nix
+# 如果你之后把站点导出到 docs/ 用于发布，请不要忽略 docs/
