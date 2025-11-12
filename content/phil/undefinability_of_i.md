@@ -1,5 +1,6 @@
 ---
 date: 2025-11-11
+published: "true"
 ---
 #metaphysics #explanation 
 This question was raised in Tim Maudlin's lecture discussing naming and necessity. Tim was arguing that referring to something (especially pointing to something), say pointing to a book and claiming that it is blablabla, is purely an *anaphoric* chain and nothing causal was involved. Then one gave an instance that the imaginary unit $i$ is not definable, but you can point to it on the complex plane (I guess that was what he was trying to say), which was refuted by Tim. 
@@ -33,13 +34,13 @@ $$
 This can be proved by an *automorphism*, and below is an informal proof. 
 
 >[!note] Definition of automorphism (informal)
-A *homomorphism* between two $L$-structures $M$ and $N$ is a map $h$ : $|M| \to |N|$ that respects the structure:
-$$h(f^M(a_1,\dots,a_n)) = f^N(h(a_1),\dots,h(a_n))$$
-and for every relation symbol $R$,
-$$(a_1,\dots,a_n)\in R^M \implies (h(a_1),\dots,h(a_n))\in R^N,$$
-and constants are preserved: $h(c^M)=c^N.$
-If the map $h$ is bijective and its inverse is also a *homomorphism*, it’s an *isomorphism*.
-If it’s an *isomorphism* from a structure onto itself, it’s an ***automorphism***.
+ A *homomorphism* between two $L$-structures $M$ and $N$ is a map $h$ : $|M| \to |N|$ that respects the structure:
+ $$h(f^M(a_1,\dots,a_n)) = f^N(h(a_1),\dots,h(a_n))$$
+ and for every relation symbol $R$,
+ $$(a_1,\dots,a_n)\in R^M \implies (h(a_1),\dots,h(a_n))\in R^N,$$
+ and constants are preserved: $h(c^M)=c^N.$
+ If the map $h$ is bijective and its inverse is also a *homomorphism*, it’s an *isomorphism*.
+ If it’s an *isomorphism* from a structure onto itself, it’s an ***automorphism***.
 
 An important corollary is that, an automorphism preserves all the truths. For instance, for the field $\mathbb C$, any automorphism, say $\sigma$, preserves the field operation:
 $$\sigma(z+w) = \sigma(z) + \sigma(w), \qquad \sigma(z \cdot w) = \sigma(z) \cdot \sigma(w),$$
