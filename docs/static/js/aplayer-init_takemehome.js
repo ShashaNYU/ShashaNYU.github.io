@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
-  const container = document.getElementById("aplayer");
+  const container = document.getElementById("aplayer-takemehome");
   if (!container) return;
 
   new APlayer({
@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", () => {
     audio: [
       {
         name: "take me home",
-        artist: "Lana Del Rey",
+        artist: "",
         url: "/Users/sharuixuan/quartz/quartz/static/music/take_me_home.flac",
         cover: "",
         lrc: "",
