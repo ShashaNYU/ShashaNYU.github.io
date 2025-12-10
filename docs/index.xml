@@ -6,11 +6,11 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>Dec5_2025</title>
-    <link>https://quartz.jzhao.xyz/blog_publication/Dec5_2025</link>
-    <guid>https://quartz.jzhao.xyz/blog_publication/Dec5_2025</guid>
-    <description><![CDATA[  Your browser does not support the audio element. ]]></description>
-    <pubDate>Fri, 05 Dec 2025 05:00:00 GMT</pubDate>
+    <title>Dec7_2025</title>
+    <link>https://quartz.jzhao.xyz/blog_publication/Dec7_2025</link>
+    <guid>https://quartz.jzhao.xyz/blog_publication/Dec7_2025</guid>
+    <description><![CDATA[  document.addEventListener(&quot;DOMContentLoaded&quot;, function () { const ap = new APlayer({ container: document.getElementById(&#039;aplayer&#039;), fixed: false, // 如果想做底部悬浮播放器改成 true autoplay: false, // 是否自动播放 theme: &#039;#FADFA3&#039;, // 播放进度条颜色，随便改 loop: &#039;all&#039;, // &#039;all&#039;... ]]></description>
+    <pubDate>Sun, 07 Dec 2025 05:00:00 GMT</pubDate>
   </item><item>
     <title>Dec1_2025</title>
     <link>https://quartz.jzhao.xyz/blog_publication/Dec1_2025</link>
@@ -27,7 +27,7 @@
     <title>Sha&#039;s Blog</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ 你们可以开盘我第几周断更。 blog_publication 会放一些随手写的 path: blog_publication sort: date-desc phil_public 是一些上课的笔记和我觉得有意思的问题 Gödel_incompleteness 2025Nov17 写了一半，剩下关于primitive recursive的以后慢慢补 horwich_truth_handout 2025Nov14 好累 写了一半 周末再整理。他的理论乍一看觉得像放屁，仔细一看觉得很有道理，再想还是觉得不对。 undefinability_of_i 2025Nov11 讲Kripke的时候莫名其妙... ]]></description>
+    <description><![CDATA[ 你们可以开盘我第几周断更。 blog_publication 会放一些随手写的 phil_public 是一些上课的笔记和我觉得有意思的问题，也有可能会有非哲学的内容 Gödel_incompleteness 2025Nov17 写了一半，剩下关于primitive recursive的以后慢慢补 horwich_truth_handout 2025Nov14 好累 写了一半 周末再整理。他的理论乍一看觉得像放屁，仔细一看觉得很有道理，再想还是觉得不对。 undefinability_of_i 2025Nov11 讲Kripke的时候莫名其妙扯到的，其实很通俗易懂 French Maoism ... ]]></description>
     <pubDate>Tue, 11 Nov 2025 23:50:08 GMT</pubDate>
   </item><item>
     <title>undefinability_of_i</title>
