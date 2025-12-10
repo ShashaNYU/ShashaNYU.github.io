@@ -27,6 +27,20 @@ document.addEventListener("DOMContentLoaded", () => {
         cover: "/static/music/Lana_Del_Rey_-_Norman_Fucking_Rockwell.png",
         lrc: "",
       },
+      // {
+      //   name: "喜欢",
+      //   artist: "张悬",
+      //   url: "/static/music/xihuan.flac",
+      //   cover: "/static/music/xihuan.png",
+      //   lrc: "",
+      // },
+      // {
+      //   name: "新鸳鸯蝴蝶梦",
+      //   artist: "黄安",
+      //   url: "/static/music/xyyhdm.flac",
+      //   cover: "/static/music/xyyhdm.png",
+      //   lrc: "",
+      // },
     ],
   });
 });
