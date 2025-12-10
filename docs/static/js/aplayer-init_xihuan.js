@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
         name: "喜欢",
         artist: "张悬",
         url: "/static/music/xihuan.flac",
-        cover: "/static/music/xihuan.png",
+        cover: "/static/music/xihuan.jpg",
         lrc: "",
       },
     ],

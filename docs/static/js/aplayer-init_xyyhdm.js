@@ -24,7 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
         name: "新鸳鸯蝴蝶梦",
         artist: "黄安",
         url: "/static/music/xyyhdm.flac",
-        cover: "/static/music/xyyhdm.png",
+        cover: "/static/music/xyyhdm.jpeg",
         lrc: "",
       },
     ],
