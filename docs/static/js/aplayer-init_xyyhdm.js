@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
-  const container = document.getElementById("aplayer");
+  const container = document.getElementById("aplayer-xyyhdm");
   if (!container) return;
 
   new APlayer({

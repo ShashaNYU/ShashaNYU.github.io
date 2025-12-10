@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     return;
   }
 
-  const container = document.getElementById("aplayer");
+  const container = document.getElementById("aplayer-xihuan");
   if (!container) return;
 
   new APlayer({
