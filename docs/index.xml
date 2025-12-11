@@ -6,6 +6,18 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>PA</title>
+    <link>https://quartz.jzhao.xyz/phil_public/PA</link>
+    <guid>https://quartz.jzhao.xyz/phil_public/PA</guid>
+    <description><![CDATA[ math_logic see formal_system before this Based on \mathcal L_{S}, add new signs: &#039;+&#039; and &#039;\times&#039;. New formation rules: 1. ]]></description>
+    <pubDate>Thu, 11 Dec 2025 00:55:00 GMT</pubDate>
+  </item><item>
+    <title>formal_system</title>
+    <link>https://quartz.jzhao.xyz/phil_public/formal_system</link>
+    <guid>https://quartz.jzhao.xyz/phil_public/formal_system</guid>
+    <description><![CDATA[ math_logic Certain symbols and rules form a formal language. Formal languages with certain axioms are formal systems. ]]></description>
+    <pubDate>Wed, 10 Dec 2025 23:01:20 GMT</pubDate>
+  </item><item>
     <title>Dec9_2025</title>
     <link>https://quartz.jzhao.xyz/blog_publication/Dec9_2025</link>
     <guid>https://quartz.jzhao.xyz/blog_publication/Dec9_2025</guid>
@@ -18,6 +30,12 @@
     <description><![CDATA[  总有一些歌是反季节的。 比如打雷就应该夏天听，但我经常听到the next best American record想起高三的冬天。我在虹桥那个自习室的小隔间里听着歌，做没完没了的圆锥曲线和导数大题，然后不时发呆，望着被雨夹雪笼罩的灰蒙蒙的南京城北。阴冷的日子里我脑中全是六个月后的夏天，那时我刚考完高考，会在梧桐树荫下听见蝉鸣，会在湛蓝的海水旁边狂奔，会被热浪赶走身上所有的潮湿。只有在冬天我会忘了南京的夏天有多毒辣。 印象里北京也是灰蒙蒙的，但是不知为何北京的灰蒙蒙比南京多出点古色古香的意趣。去年感恩节我在前门大街游荡，想起ljc说有一条杨梅竹斜街上很多咖啡店挺有情调。咖啡店在老房子里，踏上... ]]></description>
     <pubDate>Mon, 01 Dec 2025 05:00:00 GMT</pubDate>
   </item><item>
+    <title>Formalizing_primitive_recursion</title>
+    <link>https://quartz.jzhao.xyz/phil_public/Formalizing_primitive_recursion</link>
+    <guid>https://quartz.jzhao.xyz/phil_public/Formalizing_primitive_recursion</guid>
+    <description><![CDATA[ math_logic Introduction and \Sigma_1, \Pi_1, \Delta_0 formulas The \Delta_0 formulas of PA are those in which all quantifiers are bounded. ]]></description>
+    <pubDate>Wed, 19 Nov 2025 03:08:44 GMT</pubDate>
+  </item><item>
     <title>Gödel_incompleteness</title>
     <link>https://quartz.jzhao.xyz/phil_public/G%C3%B6del_incompleteness</link>
     <guid>https://quartz.jzhao.xyz/phil_public/G%C3%B6del_incompleteness</guid>
@@ -27,7 +45,7 @@
     <title>Sha&#039;s Blog</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ 你们可以开盘我第几周断更。 blog_publication 会放一些随手写的 phil_public 是一些上课的笔记和我觉得有意思的问题，也有可能会有非哲学的内容 Gödel_incompleteness 2025Nov17 写了一半，剩下关于primitive recursive的以后慢慢补 horwich_truth_handout 2025Nov14 好累 写了一半 周末再整理。他的理论乍一看觉得像放屁，仔细一看觉得很有道理，再想还是觉得不对。 undefinability_of_i 2025Nov11 讲Kripke的时候莫名其妙扯到的，其实很通俗易懂 French Maoism ... ]]></description>
+    <description><![CDATA[ 你们可以开盘我第几周断更。 blog_publication 会放一些随手写的 phil_public 是一些上课的笔记和我觉得有意思的问题，也有可能会有非哲学的内容 formal_system， PA， Formalizing_primitive_recursion 2025Dec 作为期末复习的笔记整理 Gödel_incompleteness 2025Nov17 写了一半，剩下关于primitive recursive的以后慢慢补 horwich_truth_handout 2025Nov14 好累 写了一半 周末再整理。他的理论乍一看觉得像放屁，仔细一看觉得很有道理，再想还是觉得不对。... ]]></description>
     <pubDate>Tue, 11 Nov 2025 23:50:08 GMT</pubDate>
   </item><item>
     <title>undefinability_of_i</title>
@@ -47,18 +65,6 @@
     <guid>https://quartz.jzhao.xyz/blog_publication/Oct26_2025</guid>
     <description><![CDATA[ 我在maudlin讲fact, fiction, and forecast的时候走了神，因为我课前根本没看这本书。他的小狗正屁股对着我，我开始思考它什么时候屁颠屁颠跑过来趴我腿上。它毛茸茸的，很像今天的云朵。上学路上我幽怨的盯着天空，想为什么好天气永远在上学的时候出现。 恍惚间听到老师说在他想来世界有种最坏的可能，可能一切只存在了一秒，在此之前所有记忆全是幻觉。 听上去是个很老掉牙的skepticism问题，毕竟这本书就是个重生版的hume。我不知道怎么反驳他。我想这确实有可能，毕竟一秒钟前我在白日做梦，或许世界诞生于梦醒时分，梦到的东西只是世界解的initial condition。我很讨厌... ]]></description>
     <pubDate>Sun, 26 Oct 2025 04:00:00 GMT</pubDate>
-  </item><item>
-    <title>horwich_truth_handout</title>
-    <link>https://quartz.jzhao.xyz/phil_public/horwich_truth_handout</link>
-    <guid>https://quartz.jzhao.xyz/phil_public/horwich_truth_handout</guid>
-    <description><![CDATA[ truth metaphysics horwich In summary, Horwich holds that a true proposition should follow the equivalence schema below: \ulcorner p \urcorner \text{ is true} \quad \Longleftrightarrow \quad p There might be some part I forgot about the quotation mark \ulcorner\urcorner. ]]></description>
-    <pubDate>Wed, 03 Sep 2025 04:00:00 GMT</pubDate>
-  </item><item>
-    <title>Sep13_2024</title>
-    <link>https://quartz.jzhao.xyz/blog_publication/Sep13_2024</link>
-    <guid>https://quartz.jzhao.xyz/blog_publication/Sep13_2024</guid>
-    <description><![CDATA[ 高二，疫情在家，我跟爹妈说想玩胶片。他们说你不该抓紧时间学习吗。我偷偷花了两百买了一个kiss1还有最便宜的gold200。我学着b站上的文艺逼去回龙桥和双门楼那里的小巷子里去扫街，去拍破破烂烂的房屋和意义不明的废墟。我知道我拍的乱七八糟但我很开心。我想我会一直拍下去，说不定哪天我会成为森山大道。 我的父母很少说学生最重要的是学习这种话，也很少管我成绩怎么样。但是这次他们说拍照的事可以以后再搞，上了大学有的是时间。我哭了。我说我不想把喜欢的事情拖到以后，以后说不定就不喜欢了，我不想我的热情被时间耗费掉。我和我爹说，你说你以前就很想学摄影，长大了有钱了买了个相机。现在你有钱了，但一年你又把相机拿... ]]></description>
-    <pubDate>Fri, 13 Sep 2024 04:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
