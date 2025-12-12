@@ -23,7 +23,7 @@ document.addEventListener("DOMContentLoaded", () => {
       {
         name: "take me home",
         artist: "",
-        url: "/Users/sharuixuan/quartz/quartz/static/music/take_me_home.flac",
+        url: "/static/music/take_me_home.flac",
         cover: "",
         lrc: "",
       },
