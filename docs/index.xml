@@ -6,6 +6,18 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Dec19_2025</title>
+    <link>https://quartz.jzhao.xyz/blog_publication/Dec19_2025</link>
+    <guid>https://quartz.jzhao.xyz/blog_publication/Dec19_2025</guid>
+    <description><![CDATA[ 麦当劳的穷鬼套餐又多给我送了两块麦乐鸡。 突然想到lxl那天说她是百分之七十五幸运女孩。虽然不知道我是百分之多少，但总感觉不应该把运气浪费在这种奇怪的事情上。于是我假装没看见多出来的那两块麦乐鸡，冷血的把它们送进了垃圾桶。即便如此，还是很倒霉的发现mimi门口排着动都不动的长队。我翻了个白眼头也不回的就走了。 突然发现其实百分之七十五幸运女孩也是百分之二十五倒霉女孩。作为bayesianist，我觉得其实我应该是百分之五十幸运女孩。因为对于任何事情都可以说，狗屁运不运的，概率不都是五十对五十？（formal epistemology） 正常人应该在一个幸运中性测度下幸运值为0，相比之下lxl比... ]]></description>
+    <pubDate>Fri, 19 Dec 2025 08:21:49 GMT</pubDate>
+  </item><item>
+    <title>Intro_2_formal_epistemology</title>
+    <link>https://quartz.jzhao.xyz/phil_public/Intro_2_formal_epistemology</link>
+    <guid>https://quartz.jzhao.xyz/phil_public/Intro_2_formal_epistemology</guid>
+    <description><![CDATA[ metaphysics epistemology Confirmation Scientific -testing appears to work something like “deduction in reverse” (Goodman 1954). ]]></description>
+    <pubDate>Fri, 19 Dec 2025 07:36:00 GMT</pubDate>
+  </item><item>
     <title>PA</title>
     <link>https://quartz.jzhao.xyz/phil_public/PA</link>
     <guid>https://quartz.jzhao.xyz/phil_public/PA</guid>
@@ -45,7 +57,7 @@
     <title>Sha&#039;s Blog</title>
     <link>https://quartz.jzhao.xyz/</link>
     <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ 你们可以开盘我第几周断更。 blog_publication 会放一些随手写的 phil_public 是一些上课的笔记和我觉得有意思的问题，也有可能会有非哲学的内容 formal_system， PA， Formalizing_primitive_recursion 2025Dec 作为期末复习的笔记整理 Gödel_incompleteness 2025Nov17 写了一半，剩下关于primitive recursive的以后慢慢补 horwich_truth_handout 2025Nov14 好累 写了一半 周末再整理。他的理论乍一看觉得像放屁，仔细一看觉得很有道理，再想还是觉得不对。... ]]></description>
+    <description><![CDATA[ 你们可以开盘我第几周断更。 blog_publication 会放一些随手写的 phil_public 是一些上课的笔记和我觉得有意思的问题，也有可能会有非哲学的内容 Intro_2_formal_epistemology 2025Nov 看完了没整理完。整理自SEP formal_system， PA， Formalizing_primitive_recursion 2025Dec 作为期末复习的笔记整理 Gödel_incompleteness 2025Nov17 写了一半，剩下关于primitive recursive的以后慢慢补 horwich_truth_handout 2025No... ]]></description>
     <pubDate>Tue, 11 Nov 2025 23:50:08 GMT</pubDate>
   </item><item>
     <title>undefinability_of_i</title>
@@ -53,18 +65,6 @@
     <guid>https://quartz.jzhao.xyz/phil_public/undefinability_of_i</guid>
     <description><![CDATA[ metaphysics explanation maudlin kripke This question was raised in Tim Maudlin’s lecture discussing naming and necessity. ]]></description>
     <pubDate>Tue, 11 Nov 2025 05:00:00 GMT</pubDate>
-  </item><item>
-    <title>Nov9_2025</title>
-    <link>https://quartz.jzhao.xyz/blog_publication/Nov9_2025</link>
-    <guid>https://quartz.jzhao.xyz/blog_publication/Nov9_2025</guid>
-    <description><![CDATA[ 放学后趴在走廊的栏杆上，透过几乎是光秃秃的梧桐树枝向西望去。太阳已经不见了，只剩微微泛红的天边和不远处工地的剪影。我忽然意识到已经立冬了。 11月的风恶毒地钻进我的领子。我只能将双手死死抱在胸前，眯着眼睛往后门走去。后门那时没有因为疫情封闭，学生来来往往，远比现在热闹。我一直对饺子无感，可我竟然在主动找能吃饺子的地方。这甚至是我第一次听说立冬有这个习俗。其实吃什么都无所谓，只是觉得该好好庆祝一下冬天。即使冬天把我冻的瑟瑟发抖我也喜欢冬天，喜欢把自己挪回室内时身体重新焕发生机的感觉，喜欢大脑晕乎乎的幸福的感觉。 我刻意避开了平时会去的那家馄炖店，因为我知道走上二楼一定会看到那群男的在玩原神，多少... ]]></description>
-    <pubDate>Sun, 09 Nov 2025 05:00:00 GMT</pubDate>
-  </item><item>
-    <title>Oct26_2025</title>
-    <link>https://quartz.jzhao.xyz/blog_publication/Oct26_2025</link>
-    <guid>https://quartz.jzhao.xyz/blog_publication/Oct26_2025</guid>
-    <description><![CDATA[ 我在maudlin讲fact, fiction, and forecast的时候走了神，因为我课前根本没看这本书。他的小狗正屁股对着我，我开始思考它什么时候屁颠屁颠跑过来趴我腿上。它毛茸茸的，很像今天的云朵。上学路上我幽怨的盯着天空，想为什么好天气永远在上学的时候出现。 恍惚间听到老师说在他想来世界有种最坏的可能，可能一切只存在了一秒，在此之前所有记忆全是幻觉。 听上去是个很老掉牙的skepticism问题，毕竟这本书就是个重生版的hume。我不知道怎么反驳他。我想这确实有可能，毕竟一秒钟前我在白日做梦，或许世界诞生于梦醒时分，梦到的东西只是世界解的initial condition。我很讨厌... ]]></description>
-    <pubDate>Sun, 26 Oct 2025 04:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
