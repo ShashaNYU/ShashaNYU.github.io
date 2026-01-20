@@ -6,6 +6,24 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
+    <title>Notes_on_basic_FOL</title>
+    <link>https://quartz.jzhao.xyz/phil_public/Notes_on_basic_FOL</link>
+    <guid>https://quartz.jzhao.xyz/phil_public/Notes_on_basic_FOL</guid>
+    <description><![CDATA[ based on Introduction to Mathematical Logic Model theory As a preliminary step, for a given s in \Sigma we shall define a function s^{*} that assigns to each term t of \mathcal{L} an elements s^{*}(t) in D: 1. ]]></description>
+    <pubDate>Tue, 20 Jan 2026 04:29:04 GMT</pubDate>
+  </item><item>
+    <title>logical_foundation_of_probability</title>
+    <link>https://quartz.jzhao.xyz/phil_public/logical_foundation_of_probability</link>
+    <guid>https://quartz.jzhao.xyz/phil_public/logical_foundation_of_probability</guid>
+    <description><![CDATA[ metaphysics explanation induction Intro The chief task: a clarification and definition of the concept of the degree of confirmation a clarification of the logical nature of induction and a construction of a system of inductive logic a clarification of the concept of probability On explication The ex... ]]></description>
+    <pubDate>Tue, 20 Jan 2026 01:26:09 GMT</pubDate>
+  </item><item>
+    <title>notes_on_HO_metaphysics_winter_RG</title>
+    <link>https://quartz.jzhao.xyz/phil_public/notes_on_HO_metaphysics_winter_RG</link>
+    <guid>https://quartz.jzhao.xyz/phil_public/notes_on_HO_metaphysics_winter_RG</guid>
+    <description><![CDATA[ higher-order Note that this doc could be really messy since it originates from various materials. ]]></description>
+    <pubDate>Fri, 02 Jan 2026 20:28:47 GMT</pubDate>
+  </item><item>
     <title>Dec19_2025</title>
     <link>https://quartz.jzhao.xyz/blog_publication/Dec19_2025</link>
     <guid>https://quartz.jzhao.xyz/blog_publication/Dec19_2025</guid>
@@ -47,24 +65,6 @@
     <guid>https://quartz.jzhao.xyz/phil_public/Formalizing_primitive_recursion</guid>
     <description><![CDATA[ math_logic Introduction and \Sigma_1, \Pi_1, \Delta_0 formulas The \Delta_0 formulas of PA are those in which all quantifiers are bounded. ]]></description>
     <pubDate>Wed, 19 Nov 2025 03:08:44 GMT</pubDate>
-  </item><item>
-    <title>Gödel_incompleteness</title>
-    <link>https://quartz.jzhao.xyz/phil_public/G%C3%B6del_incompleteness</link>
-    <guid>https://quartz.jzhao.xyz/phil_public/G%C3%B6del_incompleteness</guid>
-    <description><![CDATA[ math_logic PA This document is based on Goldfarb’s Note. ]]></description>
-    <pubDate>Sat, 15 Nov 2025 05:00:00 GMT</pubDate>
-  </item><item>
-    <title>Sha&#039;s Blog</title>
-    <link>https://quartz.jzhao.xyz/</link>
-    <guid>https://quartz.jzhao.xyz/</guid>
-    <description><![CDATA[ 你们可以开盘我第几周断更。 blog_publication 会放一些随手写的 phil_public 是一些上课的笔记和我觉得有意思的问题，也有可能会有非哲学的内容 Intro_2_formal_epistemology 2025Nov 看完了没整理完。整理自SEP formal_system， PA， Formalizing_primitive_recursion 2025Dec 作为期末复习的笔记整理 Gödel_incompleteness 2025Nov17 写了一半，剩下关于primitive recursive的以后慢慢补 horwich_truth_handout 2025No... ]]></description>
-    <pubDate>Tue, 11 Nov 2025 23:50:08 GMT</pubDate>
-  </item><item>
-    <title>undefinability_of_i</title>
-    <link>https://quartz.jzhao.xyz/phil_public/undefinability_of_i</link>
-    <guid>https://quartz.jzhao.xyz/phil_public/undefinability_of_i</guid>
-    <description><![CDATA[ metaphysics explanation maudlin kripke This question was raised in Tim Maudlin’s lecture discussing naming and necessity. ]]></description>
-    <pubDate>Tue, 11 Nov 2025 05:00:00 GMT</pubDate>
   </item>
     </channel>
   </rss>
