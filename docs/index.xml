@@ -6,17 +6,23 @@
       <description>Last 10 notes on Quartz 4</description>
       <generator>Quartz -- quartz.jzhao.xyz</generator>
       <item>
-    <title>notes_on_HO_metaphysics_winter_RG</title>
-    <link>https://quartz.jzhao.xyz/phil_public/notes_on_HO_metaphysics_winter_RG</link>
-    <guid>https://quartz.jzhao.xyz/phil_public/notes_on_HO_metaphysics_winter_RG</guid>
-    <description><![CDATA[ higher-order Note that this doc could be really messy since it originates from various materials. ]]></description>
-    <pubDate>Tue, 20 Jan 2026 17:50:55 GMT</pubDate>
+    <title>Notes_Consistency_strength</title>
+    <link>https://quartz.jzhao.xyz/phil_public/Notes_Consistency_strength</link>
+    <guid>https://quartz.jzhao.xyz/phil_public/Notes_Consistency_strength</guid>
+    <description><![CDATA[ James Walsh Jan 21 Hilbert: Isolate indisputable principles (finite math); and prove the consistency of ZFC using these PA (\Bbb N) SIGNATURE: [0,1,+,\cdot,2^{x},\le] AXIOMS \begin{align} &amp;\lnot x+1=0\\ &amp;x+1=y+1\rightarrow x=y\\ &amp;x+0 = x\\ &amp;x+(y+1)=(x+y)+1\\ &amp;x\cdot0 = 0\\ &amp;x... ]]></description>
+    <pubDate>Fri, 06 Feb 2026 21:48:26 GMT</pubDate>
   </item><item>
     <title>Notes_on_basic_FOL</title>
     <link>https://quartz.jzhao.xyz/phil_public/Notes_on_basic_FOL</link>
     <guid>https://quartz.jzhao.xyz/phil_public/Notes_on_basic_FOL</guid>
-    <description><![CDATA[ based on Introduction to Mathematical Logic Model theory As a preliminary step, for a given s in \Sigma we shall define a function s^{*} that assigns to each term t of \mathcal{L} an elements s^{*}(t) in D: 1. ]]></description>
-    <pubDate>Tue, 20 Jan 2026 04:29:04 GMT</pubDate>
+    <description><![CDATA[ based on Introduction to Mathematical Logic Models, Satisfiability, and Truth As a preliminary step, for a given s in \Sigma we shall define a function s^{*} that assigns to each term t of \mathcal{L} an elements s^{*}(t) in D: 1. ]]></description>
+    <pubDate>Sat, 24 Jan 2026 22:33:01 GMT</pubDate>
+  </item><item>
+    <title>notes_on_HO_metaphysics_winter_RG</title>
+    <link>https://quartz.jzhao.xyz/phil_public/notes_on_HO_metaphysics_winter_RG</link>
+    <guid>https://quartz.jzhao.xyz/phil_public/notes_on_HO_metaphysics_winter_RG</guid>
+    <description><![CDATA[ higher-order Note that this doc could be really messy since it originates from various materials. ]]></description>
+    <pubDate>Wed, 21 Jan 2026 03:30:25 GMT</pubDate>
   </item><item>
     <title>logical_foundation_of_probability</title>
     <link>https://quartz.jzhao.xyz/phil_public/logical_foundation_of_probability</link>
@@ -59,12 +65,6 @@
     <guid>https://quartz.jzhao.xyz/blog_publication/Dec1_2025</guid>
     <description><![CDATA[  总有一些歌是反季节的。 比如打雷就应该夏天听，但我经常听到the next best American record想起高三的冬天。我在虹桥那个自习室的小隔间里听着歌，做没完没了的圆锥曲线和导数大题，然后不时发呆，望着被雨夹雪笼罩的灰蒙蒙的南京城北。阴冷的日子里我脑中全是六个月后的夏天，那时我刚考完高考，会在梧桐树荫下听见蝉鸣，会在湛蓝的海水旁边狂奔，会被热浪赶走身上所有的潮湿。只有在冬天我会忘了南京的夏天有多毒辣。 印象里北京也是灰蒙蒙的，但是不知为何北京的灰蒙蒙比南京多出点古色古香的意趣。去年感恩节我在前门大街游荡，想起ljc说有一条杨梅竹斜街上很多咖啡店挺有情调。咖啡店在老房子里，踏上... ]]></description>
     <pubDate>Mon, 01 Dec 2025 05:00:00 GMT</pubDate>
-  </item><item>
-    <title>Formalizing_primitive_recursion</title>
-    <link>https://quartz.jzhao.xyz/phil_public/Formalizing_primitive_recursion</link>
-    <guid>https://quartz.jzhao.xyz/phil_public/Formalizing_primitive_recursion</guid>
-    <description><![CDATA[ math_logic Introduction and \Sigma_1, \Pi_1, \Delta_0 formulas The \Delta_0 formulas of PA are those in which all quantifiers are bounded. ]]></description>
-    <pubDate>Wed, 19 Nov 2025 03:08:44 GMT</pubDate>
   </item>
     </channel>
   </rss>
